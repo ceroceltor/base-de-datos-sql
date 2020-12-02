@@ -1,0 +1,13 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="pruebamodulodos" id="D5EE99D8-CB77-5DF9-4FEE-5375A8522A80" version="3.5">
+<createdBy>Gonzalo</createdBy>
+<createdTime>2020-12-01 19:51:45 UTC</createdTime>
+<ownerDesignName>pruebamodulodos</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>D5EE99D8-CB77-5DF9-4FEE-5375A8522A80</designId>
+<usedDesignStorageDescriptors>
+<designDescr class="oracle.dbtools.crest.model.design.Design$DesignStorageDesc" id="CE94082C-1D3D-1BE5-22A9-A6B19B36059A">
+<designStoragePath>C:\</designStoragePath>
+</designDescr>
+</usedDesignStorageDescriptors>
+</OSDM_Design>
